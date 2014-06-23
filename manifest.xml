@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8"> <name>Hello world</name>
-  <id>hello_world</id>
-  <author>PG</author>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8"> <name>Zhaohu Theme</name>
+  <id>zhaohu_theme</id>
+  <author>Gang Peng</author>
   <version>1.0</version>
-  <description>Adds a page that prints "Hello world".</description>
+  <description>A new theme created for zhaohu</description>
   <requires>
     <type>elgg_release</type>
     <version>1.8</version>
