@@ -1,17 +1,16 @@
 <?php
 /**
- * Elgg hello_world plugin language pack
+ * Elgg zhaohu_theme plugin language pack
  *
- * @package ElggHelloWorld
+ * @package ElggZhaohu
  */
 
 $english = array(
-	'hello:world' => "Hello, World!",
-	'hello:dolly' => "Hello, Dolly!",
-	'hello:user' => "Hello, %s!",
-	'hello:menu' => "Hello!",
-	'hello:sidebar:world' => "Hello world",
-	'hello:sidebar:dolly' => "Hello dolly"
+	'zhaohu:home_page' => "Home Page",
+	'zhaohu:find_zhaohu' => "Find Zhaohu",
+	'zhaohu:create_group' => "Create Group",
+	'zhaohu:login' => "Login",
+	'zhaohu:register' => "Register",
 );
 
 add_translation("en", $english);
