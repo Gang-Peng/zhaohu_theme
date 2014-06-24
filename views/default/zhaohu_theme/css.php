@@ -4,6 +4,7 @@
  */
 ?>
 
+/* Need to be removed, just here to give you a feeling */
 .elgg-page-default .elgg-page-header > .elgg-inner {
 	height: 120px;
 }
